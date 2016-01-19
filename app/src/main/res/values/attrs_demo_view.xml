@@ -1,0 +1,6 @@
+<resources>
+    <declare-styleable name="DemoView">
+        <attr name="textSize" format="dimension" />
+        <attr name="ipaSize" format="dimension" />
+    </declare-styleable>
+</resources>
